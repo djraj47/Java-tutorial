@@ -1,0 +1,19 @@
+JAVA
+
+JAVA is a popular programming language created in 1995 , owned by ORACLE .
+
+It is used for :
+
+    • Mobile applications ( specially Android apps )
+    • Desktop applications
+    • Web applications
+    • Database connection
+    • Web servers and application servers            
+    • Games
+
+Why Use JAVA ?
+
+    • JAVA work on different platforms (Windows ,Mac , Linux )
+    • It is open-source and free         
+    • JAVA is an object oriented language         
+    
